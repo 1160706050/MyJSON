@@ -1,0 +1,47 @@
+{
+  "Unicode": "\u8fd9\u662f\u4e00\u6bb5\u0055\u006e\u0069\u0063\u006f\u0064\u0065\u6587\u672c\u002c\u6d4b\u8bd5\u4f7f\u7528",
+  "min_position": 9,
+  "has_more_items": false,
+  "items_html": "Bus",
+  "new_latent_count": 3,
+  "data": {
+    "length": 25,
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "numericalArray": [
+    27,
+    20,
+    20,
+    26,
+    29
+  ],
+  "StringArray": [
+    "Nitrogen",
+    "Carbon",
+    "Carbon",
+    "Nitrogen"
+  ],
+  "multipleTypesArray": true,
+  "objArray": [
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "middle",
+      "age": 0
+    },
+    {
+      "class": "upper",
+      "age": 1
+    },
+    {
+      "class": "upper",
+      "age": 4
+    },
+    {
+      "class": "upper",
+      "age": 4
+    }
+  ]
+}
